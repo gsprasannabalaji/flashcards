@@ -1,3 +1,15 @@
+- Flashcards AI
+  Flashcards AI is designed to help students, professionals, and lifelong learners master any topic with ease. Whether you're preparing for an exam, learning a new skill, or just satisfying your curiosity, Flashcards AI has got you covered!
+
+- Tech Stack :
+• Next.js
+• React
+• Tailwind CSS
+• Google Firestore
+• Stripe API
+• Clerk
+• OpenAI API
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
